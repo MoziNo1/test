@@ -1,0 +1,483 @@
+1634092781742	geckodriver	INFO	Listening on 127.0.0.1:62244
+1634092784791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofile9kRl8m"
+1634092785323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofile9kRl8m\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634092788781	Marionette	INFO	Listening on port 62258
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634092790028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16d56ee5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bcb7962e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bcdffa580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bd0d8a820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bced552e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bd1857d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bd11a6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bcdfe59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bc9cfd740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bd187dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bcdd82f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634093296215	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bcdd82f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12656, MediaDecoderStateMachine #1] WARNING: 16bce177820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1634093478349	Marionette	INFO	Stopped listening on port 62258
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634093575573	geckodriver	INFO	Listening on 127.0.0.1:59069
+1634093578565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofilexb4rYP"
+1634093579002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofilexb4rYP\\search.json.mozlz4", (void 0)))
+1634093581328	Marionette	INFO	Listening on port 59077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634093581756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b39c6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b2eb4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b2eb4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b6550900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b6550c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1cb38521040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1cb38521040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b37ae900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+SourceActor threw an exception: Error: Failed to fetch https://v.qq.com/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://v.qq.com/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_913136&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=91df740946552ff3224e380d63d4b3e3&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=htF7Z8%2BXA13038VnX%3D&_qv_rmt2=M8o2dzLb164954zAQ%3D&_=1634093582992. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_913136&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=91df740946552ff3224e380d63d4b3e3&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=htF7Z8%2BXA13038VnX%3D&_qv_rmt2=M8o2dzLb164954zAQ%3D&_=1634093582992. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191046611746689558087_1634093582987&_=1634093582991. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191046611746689558087_1634093582987&_=1634093582991. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191046611746689558087_1634093582987&_=1634093582988. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191046611746689558087_1634093582987&_=1634093582988. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191046611746689558087_1634093582989&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191046611746689558087_1634093582989&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191046611746689558087_1634093582990&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191046611746689558087_1634093582990&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191046611746689558087_1634093582990&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634093582993. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191046611746689558087_1634093582990&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634093582993. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://v.qq.com/. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_913136&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=91df740946552ff3224e380d63d4b3e3&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=htF7Z8%2BXA13038VnX%3D&_qv_rmt2=M8o2dzLb164954zAQ%3D&_=1634093582992. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191046611746689558087_1634093582987&_=1634093582991. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191046611746689558087_1634093582987&_=1634093582988. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191046611746689558087_1634093582989&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191046611746689558087_1634093582990&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191046611746689558087_1634093582990&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634093582993. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b37ae660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b37ae660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b078b900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b2ec89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b2ec89e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16480, MediaDecoderStateMachine #1] WARNING: 1c9b0a23120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634094045570	Marionette	INFO	Stopped listening on port 59077
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634094054383	geckodriver	INFO	Listening on 127.0.0.1:59908
+1634094057434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofileWcn2Pp"
+1634094057841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofileWcn2Pp\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634094059955	Marionette	INFO	Listening on port 59916
+1634094060133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b947740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b899fd39e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b947740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 980: TypeError: state.hideToggleDeferredTask is null
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: Error: Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191013540926351029658_1634094061145&_=1634094061149. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191013540926351029658_1634094061145&_=1634094061149. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wuji.video.qq.com/fcgi-bin/wuji?appid=1000518&appkey=e4ac5ba2e757426cba8cd25917c8d55c&filter=scene%3Dwindow&callback=jQuery191013540926351029658_1634094061145&_=1634094061149. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191013540926351029658_1634094061145&_=1634094061146. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191013540926351029658_1634094061145&_=1634094061146. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://access.video.qq.com/common_config/get_bi?vappid=09693353&vsecret=6de1b046b48e5d3030f6e41a422681fc27b26cb9c597644d&callback=jQuery191013540926351029658_1634094061145&_=1634094061146. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_FB_CAP_ss_rm&callback=crystal.callbackarea&rot=1&ri=ca&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://js.aq.qq.com/js/aq_common.js. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_672271&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=2OyVWV4tA13046adM%3D&_qv_rmt2=7ErJsycL1649027gw%3D&_=1634094061150. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_672271&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=2OyVWV4tA13046adM%3D&_qv_rmt2=7ErJsycL1649027gw%3D&_=1634094061150. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_672271&isHLS=false&charge=false&vid=d0040cqqgtz&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=2OyVWV4tA13046adM%3D&_qv_rmt2=7ErJsycL1649027gw%3D&_=1634094061150. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://l.qq.com/lview?c=www&loc=QQlive_SP_QLL_Width,QQlive_SP_HP_DKB,QQlive_SP_RM,QQlive_FB_CAP_ss_yc,QQlive_SP_HP_R_rm_2017,QQlive_SP_ZZSP_2017&ad_cnt=3&callback=crystal.callbackarea&rot=1&ri=l.&chl=v_choice&page_type=1&k=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%2C%E7%94%B5%E5%BD%B1%2C%E7%94%B5%E8%A7%86%E5%89%A7%2C%E7%BB%BC%E8%89%BA%2C%E6%96%B0%E9%97%BB%2C%E8%B4%A2%E7%BB%8F%2C%E9%9F%B3%E4%B9%90%2CMV%2C%E9%AB%98%E6%B8%85%2C%E8%A7%86%E9%A2%91%2C%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%2C%E5%85%A8%E7%BD%91%E6%90%9C%2C%E6%90%9C%E5%85%A8%E7%BD%91&t=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20-%20%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%2C%E6%B5%B7&r=&s=. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191013540926351029658_1634094061148&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094061151. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191013540926351029658_1634094061148&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094061151. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery191013540926351029658_1634094061148&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094061151. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_581193&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=hpM4SLFKA13046K64%3D&_qv_rmt2=TbxAE0kP164905WFg%3D&_=1634094061152. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_581193&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=hpM4SLFKA13046K64%3D&_qv_rmt2=TbxAE0kP164905WFg%3D&_=1634094061152. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_581193&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=8f4df30295058d09a841a62c7fd3c279&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=hpM4SLFKA13046K64%3D&_qv_rmt2=TbxAE0kP164905WFg%3D&_=1634094061152. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191013540926351029658_1634094061148&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191013540926351029658_1634094061148&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=qunlf5aipuwzqq1,y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,ikltnnoqvnot7qc,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery191013540926351029658_1634094061148&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191013540926351029658_1634094061147&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191013540926351029658_1634094061147&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,oe6b9noeu4p7713,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4&callback=jQuery191013540926351029658_1634094061147&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://v.qq.com/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://v.qq.com/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://v.qq.com/. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ra.gtimg.com/web/default_fodders/defaultFodder.js. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://dp3.qq.com/dynamic?get_type=cm&ch=v_choice&callback=crystal.cookieMapping. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://dp3.qq.com/dynamic?get_type=cm&ch=v_choice&callback=crystal.cookieMapping. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://dp3.qq.com/dynamic?get_type=cm&ch=v_choice&callback=crystal.cookieMapping. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://v.qq.com/iframe/clientpull.html?time=10000. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://v.qq.com/iframe/clientpull.html?time=10000. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://v.qq.com/iframe/clientpull.html?time=10000. Code 2153390067.
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b4eae40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71342d4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f179820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b718d4c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b4ea820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7176edd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b899fba580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1793c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f179820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b713fe8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a4633c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a4633c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1d62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7134fb580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7134fb580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89ac632e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634094568136	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a4633c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71357f900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1fdba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a91f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a91f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b87740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f9e2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e0ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e0ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997f99e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a8493c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b872e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b872e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1792e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b87820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b87820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1d6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71357bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7161d02e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7161d02e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1fd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b716253d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71764fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71764fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b717522ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7176393c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7176393c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71764fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89ac63660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e09e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e09e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a463820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1794a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1794a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997d3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89add6ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89af37c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89af37c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71357fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997d3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997d3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1fd660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b899fba2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a8492e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a8492e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b5b24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b713ae9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b713ae9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b718d4d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b899fd3ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b899fd3ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b4ea200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e09e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7176393c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7176393c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89ac63740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b716556200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b716556200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7161d0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89a9c3ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e0040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b7162e0040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71764d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997d33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b8997d33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b708b87660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b718d76740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89c9a8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89c9a8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1d6040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71357b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71357b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b718dd4ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b5543c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1794a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b70f1794a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b71764dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b472200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b472200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89cc1c2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b718d4dba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b4723c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8528, MediaDecoderStateMachine #1] WARNING: 1b89b4723c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/domwalker99, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3734:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 106))
+1634103759940	Marionette	INFO	Stopped listening on port 59916
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tateMachine #1] WARNING: 1750a74cac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2908, MediaDecoderStateMachine #1] WARNING: 17504cb4740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2908, MediaDecoderStateMachine #1] WARNING: 1757de5bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634103758953	Marionette	INFO	Stopped listening on port 60468
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ Failed to fetch https://wa.gtimg.com/web/default_ad.js?callback=crystal.getDefaultAd. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery19106949255556405995_1634094338538&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094338542. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery19106949255556405995_1634094338538&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094338542. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://mfm.video.qq.com/danmu?otype=json&callback=jQuery19106949255556405995_1634094338538&target_id=1227342321%26vid%3Dr0018hmh1pa&session_key=0%2C0%2C0&timestamp=15&_=1634094338542. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_108672&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=3b5d47eb393d293eacaf5e7aa426db70&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=piXhceGSA13044hn3%3D&_qv_rmt2=CBauU7c0164932%2FHg%3D&_=1634094338543. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_108672&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=3b5d47eb393d293eacaf5e7aa426db70&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=piXhceGSA13044hn3%3D&_qv_rmt2=CBauU7c0164932%2FHg%3D&_=1634094338543. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://vv6.video.qq.com/getinfo?callback=txminiplayerJsonpCallBack_getinfo_108672&isHLS=false&charge=false&vid=u0039mpr149&defn=auto&defnpayver=0&otype=json&guid=3b5d47eb393d293eacaf5e7aa426db70&platform=4580201&sdtfrom=v1006&host=v.qq.com&ehost=https%3A%2F%2Fv.qq.com%2F&sphttps=1&atime=60&_qv_rmt=piXhceGSA13044hn3%3D&_qv_rmt2=CBauU7c0164932%2FHg%3D&_=1634094338543. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4,qunlf5aipuwzqq1&callback=jQuery19106949255556405995_1634094338537&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4,qunlf5aipuwzqq1&callback=jQuery19106949255556405995_1634094338537&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=mzc00200lxzhhqz,m441e3rjq9kwpsc,mzc00200xh9313v,mzc00200dwnknik,p9txi710x7yl924,zetvrs2mhhx5njt,mzc00200bvdf163,v4rhq09kpjuv7ks,tj93ryfojz2rcm4,qunlf5aipuwzqq1&callback=jQuery19106949255556405995_1634094338537&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery19106949255556405995_1634094338538&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery19106949255556405995_1634094338538&g_tk=&g_vstk=&g_actk=. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://union.video.qq.com/fcgi-bin/data?otype=json&tid=1390&appid=20001986&appkey=12f7ab002d2ca8bf&idlist=y25epedasv3z6lq,1terhu9ncm1v4nu,bzfkv5se8qaqel2,xjskgdpy4lr7o5z,mzc00200xrvb4dk,drr9tfx2g6x4qzp,quev1kiynwznrbp,xtzq09wxoyfp7rm&callback=jQuery19106949255556405995_1634094338538&g_tk=&g_vstk=&g_actk=. Code 2153390067.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 16852, MediaDecoderStateMachine #1] WARNING: 1ee3ffafc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1634094844846	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634103756281	Marionette	INFO	Stopped listening on port 64493
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ion" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: uncaught exception: Object
+[Child 20104, MediaDecoderStateMachine #1] WARNING: 27054cf32e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+1634094547177	Marionette	INFO	Stopped listening on port 65320
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634094668316	geckodriver	INFO	Listening on 127.0.0.1:59625
+1634094671329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofile5myDo0"
+1634094671820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\11442\\AppData\\Local\\Temp\\rust_mozprofile5myDo0\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634094674042	Marionette	INFO	Listening on port 59637
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634094674501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[Child 9608, MediaDecoderStateMachine #1] WARNING: 12b94ddf900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: chrome://browser/content/certerror/aboutNetError.js, line 630: Script terminated by timeout at:
+initPageCertError@chrome://browser/content/certerror/aboutNetError.js:630:3
+initPage@chrome://browser/content/certerror/aboutNetError.js:344:7
+@chrome://browser/content/certerror/aboutNetError.js:1266:3
+
+[Parent 11768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Child 9608, MediaDecoderStateMachine #1] WARNING: 12a110859e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9608, MediaDecoderStateMachine #1] WARNING: 12a11085120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+1634095182354	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: chrome://pippki/content/certManager.js, line 792: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/certManager.js, line 681: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importUserCertificate]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634103754715	Marionette	INFO	Stopped listening on port 59637
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+O_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634097520413	Marionette	INFO	Listening on port 58994
+1634097520617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20772, MediaDecoderStateMachine #1] WARNING: 232dec7c820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+[Child 20772, MediaDecoderStateMachine #1] WARNING: 23159690e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Child 20772, MediaDecoderStateMachine #1] WARNING: 232dd3b8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634098027525	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634103738887	Marionette	INFO	Stopped listening on port 58994
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
